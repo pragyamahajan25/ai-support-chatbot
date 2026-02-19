@@ -1,4 +1,4 @@
-# Support AI
+# Support AI Chatbot
 
 An AI-powered assistant that recommends support solutions based on historical ticket data. The system uses hybrid retrieval, LLM reranking, and user feedback to continuously improve solution quality.
 
